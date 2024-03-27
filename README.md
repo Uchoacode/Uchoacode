@@ -14,4 +14,4 @@
 
 ## Objetivos
 ### 👨‍💻 Estou trabalhando para aprimorar minhas habilidade e contribuir para projetos. 
-### Adoro resolver problemas e colaborar com outros desenvolvedores para criar soluções inovadoras.
+### ⌨️ Adoro resolver problemas e colaborar com outros desenvolvedores para criar soluções inovadoras.
