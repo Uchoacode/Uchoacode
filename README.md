@@ -13,7 +13,7 @@
 ![CSS3]( https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  ![FIGMA]( https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ## Objetivos
-### 👨‍💻 Estou trabalhando para aprimorar minhas habilidade e contribuir para projetos. 
+### 👨‍💻 Estou trabalhando para aprimorar minhas habilidades e contribuir para projetos. 
 ### ⌨️ Adoro resolver problemas e colaborar com outros desenvolvedores para criar soluções inovadoras.
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
