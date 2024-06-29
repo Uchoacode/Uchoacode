@@ -1,7 +1,7 @@
 ### Olá! Eu sou Rian Uchôa 💻
 
 [![Linkedin](  https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rian-uchôa-6007b72aa/) 
-[![Discord](  https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/RXpvQMeE)
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://www.instagram.com/SEUUSERNAME/](https://www.instagram.com/uchoacode?igsh=dHV0Z3BrYXlzZHNt&utm_source=qr))
 
 ![Rian's GitHub stats](https://github-readme-stats.vercel.app/api?username=uchoacode&show_icons=true&theme=radical)
 
