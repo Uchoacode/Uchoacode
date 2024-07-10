@@ -8,17 +8,14 @@
 ![Rian's GitHub stats](https://github-readme-stats.vercel.app/api?username=uchoacode&show_icons=true&theme=radical)
 
 ## Tecnologias
-
-# Meu Projeto
-
-## Tecnologias Usadas
-
-<img src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" alt="Python" width="50" height="50">
-<img src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png" alt="HTML" width="50" height="50">
-<img src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png" alt="CSS" width="50" height="50">
-<img src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" alt="JavaScript" width="50" height="50">
-<img src="https://raw.githubusercontent.com/github/explore/master/topics/figma/figma.png" alt="Figma" width="50" height="50">
-<img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java"
+<p>
+  <img src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" alt="Python" width="50" height="50">
+  <img src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png" alt="HTML" width="50" height="50">
+  <img src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png" alt="CSS" width="50" height="50">
+  <img src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" alt="JavaScript" width="50" height="50">
+  <img src="https://raw.githubusercontent.com/github/explore/master/topics/figma/figma.png" alt="Figma" width="50" height="50">
+  <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="50" height="50">
+</p>
 
 ## Objetivos
 ### 👨‍💻 Estou trabalhando para aprimorar minhas habilidades e contribuir para projetos. 
