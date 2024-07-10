@@ -13,8 +13,6 @@
 
 ## Tecnologias Usadas
 
-![Python](https://raw.githubusercontent.com/github/explore/master/topics/python/python.png)
-
 <img src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" alt="Python" width="50" height="50">
 <img src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png" alt="HTML" width="50" height="50">
 <img src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png" alt="CSS" width="50" height="50">
