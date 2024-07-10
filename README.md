@@ -15,11 +15,12 @@
 
 ![Python](https://raw.githubusercontent.com/github/explore/master/topics/python/python.png)
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Java](https://www.vectorlogo.zone/logos/java/java-icon.svg)
+<img src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" alt="Python" width="50" height="50">
+<img src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png" alt="HTML" width="50" height="50">
+<img src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png" alt="CSS" width="50" height="50">
+<img src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" alt="JavaScript" width="50" height="50">
+<img src="https://raw.githubusercontent.com/github/explore/master/topics/figma/figma.png" alt="Figma" width="50" height="50">
+<img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java"
 
 ## Objetivos
 ### 👨‍💻 Estou trabalhando para aprimorar minhas habilidades e contribuir para projetos. 
