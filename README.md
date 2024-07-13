@@ -14,8 +14,10 @@
   <img src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" alt="Python" width="50" height="50">  
   <img src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png" alt="HTML" width="50" height="50">
   <img src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png" alt="CSS" width="50" height="50">
-  <img src="https://raw.githubusercontent.com/github/explore/master/topics/figma/figma.png" alt="Figma" width="50" height="50">  
+  <img src="https://raw.githubusercontent.com/github/explore/master/topics/figma/figma.png" alt="Figma" width="50" height="50">
+  <img src="https://raw.githubusercontent.com/github/explore/master/topics/swift/swift.png" alt="Swift" width="50" height="50">
 </p>
+
 
 ## Objetivos
 ### 👨‍💻 Estou trabalhando para aprimorar minhas habilidades e contribuir para projetos. 
