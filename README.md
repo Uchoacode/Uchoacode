@@ -1,4 +1,4 @@
-### Olá! Eu sou Rian Uchôa 💻
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1FD5F7&width=435&lines=Ol%C3%A1!+Eu+sou+Rian+Uch%C3%B4a)](https://git.io/typing-svg) 💻
 
 [![Linkedin](  https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rian-uchôa-6007b72aa/) 
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/uchoacode/)
